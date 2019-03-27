@@ -7,4 +7,4 @@
          - gcc
        script:
          - gcc -o test hello.c 
-         - ./hello
+         - ./test
