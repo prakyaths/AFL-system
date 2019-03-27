@@ -6,5 +6,5 @@ matrix:
         - clang
         - gcc
       script:
-        - gcc -o hello hello.c
+        - gcc -o test hello.c
         - ./hello
